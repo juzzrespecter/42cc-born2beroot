@@ -1,0 +1,13 @@
+site_name: Notas sobre B2BR
+nav:
+  - Particionado: particionado.md
+  - Configuración SSH: ssh.md
+  - Configuración UFW: ufw.md
+  - Hostname: hostname.md
+  - Política de contraseñas: password.md
+  - Sudo: sudo.md
+  - Gestión de usuarios: users.md
+  - Script de monitorización: script.md
+  - Wordpress: wordpress.md
+  - Vsftpd: vsftpd.md
+theme: readthedocs
